@@ -50,4 +50,4 @@ Informatics Engineering Student at [UCAB Guayana](https://www.ucab.edu.ve/guayan
 - LinkedIn: [Roberson Garcia](https://www.linkedin.com/in/roberson-garc%C3%ADa-50a702261/)
 - E-mail: robersong.dev@gmail.com
 <!-- - Site: Coming soon... -->
-### 📚 Looking for my Resume? E-Mail me!
+### 📚 Looking for my Resume? E-mail me!
