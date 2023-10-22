@@ -1,6 +1,6 @@
 # Hello, I'm Roberson Garcia 👋
 
-Informatics Engineering Student at [UCAB Guayana](https://www.ucab.edu.ve/guayana/). Full-stack Web developer. 🇮🇹
+Informatics Engineering Student at [UCAB Guayana](https://www.ucab.edu.ve/guayana/). Full-stack Web developer.
 
 ### 👨🏻‍💻 &nbsp; About Me
 
