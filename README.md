@@ -46,7 +46,6 @@ Informatics Engineering Student at [UCAB Guayana](https://www.ucab.edu.ve/guayan
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/robersongarcia](https://github.com/robersongarcia)
 - LinkedIn: [Roberson Garcia](https://www.linkedin.com/in/roberson-garc%C3%ADa-50a702261/)
 - E-mail: robersong.dev@gmail.com
 <!-- - Site: Coming soon... -->
